@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T15:02:39.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="EbJhP87Rud_uHA87z1wm" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:18:24.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="gWshXApuAiOwu-Ma0eeZ" version="17.4.0" type="github">
   <diagram id="AYQV9O10JoMfKQ76o80u" name="Page-1">
     <mxGraphModel dx="1296" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="PT8ND_q76XKcG_l77ZsT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PT8ND_q76XKcG_l77ZsT-19" target="PT8ND_q76XKcG_l77ZsT-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PT8ND_q76XKcG_l77ZsT-19" value="&lt;span&gt;Hago click en new game&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="PT8ND_q76XKcG_l77ZsT-19" value="&lt;span&gt;Hago click en &lt;br&gt;&quot;new game&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="36" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PT8ND_q76XKcG_l77ZsT-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PT8ND_q76XKcG_l77ZsT-22" target="PT8ND_q76XKcG_l77ZsT-25" edge="1">
@@ -64,7 +64,7 @@
             <mxPoint x="226" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PT8ND_q76XKcG_l77ZsT-25" value="&lt;span&gt;Selecciono difucltad normal&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="PT8ND_q76XKcG_l77ZsT-25" value="&lt;span&gt;Selecciono dificultad normal&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="36" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kBB0G43ifVOI-B2i6v7P-3" value="&lt;span&gt;Le coloco nombre?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -266,7 +266,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-6" value="Me diriigo&amp;nbsp; a la mina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-6" value="Me dirijo a la mina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="391" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.53;entryY=-0.002;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="CCvOJR1eQpiQs_-hQ0Ik-6" target="CCvOJR1eQpiQs_-hQ0Ik-9" edge="1">
@@ -550,7 +550,7 @@
             <mxPoint x="1095.7000000000003" y="1119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-80" value="Coloco el horno junto con la mesa de crafteo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-80" value="Coloco el horno junto a la mesa de crafteo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1036" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-81" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -659,8 +659,8 @@
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-111" value="Recogo los items" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1036" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-113" value="Veo cascadas de &lt;br&gt;lava y agua,hierro redstone&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1206" y="500" width="140" height="70" as="geometry" />
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-113" value="Veo cascadas de &lt;br&gt;lava y agua,veo hierro y redstone&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1206" y="500" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-114" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -722,7 +722,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-128" value="Le pongo carbon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-128" value="Le coloco carbon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1216" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-129" value="Le pongo las menas de hierro" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -760,7 +760,7 @@
             <mxPoint x="1445.5000000000002" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-137" value="Pongo la mesa de crafteo en el suelo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-137" value="coloco la mesa de crafteo en el suelo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1386" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-138" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -796,8 +796,8 @@
             <mxPoint x="1445.6" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-147" value="Haci mi derecha &lt;br&gt;es mas profunda &lt;br&gt;la mina" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1386" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-147" value="Hacia mi derecha &lt;br&gt;es mas profunda &lt;br&gt;la mina" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="620" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-149" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -815,7 +815,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-153" value="Veo una mena de diamante a mi izquierda" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1386" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="400" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-154" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
