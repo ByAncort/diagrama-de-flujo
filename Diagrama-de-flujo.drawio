@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T15:19:31.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="2L2pdjik4g4c0eTg8rji" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:23:15.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="bFmm4V7Ry-nirxNkErnu" version="17.4.0" type="github">
   <diagram id="AYQV9O10JoMfKQ76o80u" name="Page-1">
     <mxGraphModel dx="1296" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -404,7 +404,7 @@
             <mxPoint x="735.7100000000003" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-42" value="Recogo la mesa&amp;nbsp;&lt;br&gt;de crafteo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-42" value="Recojo la mesa&amp;nbsp;&lt;br&gt;de crafteo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="676" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
