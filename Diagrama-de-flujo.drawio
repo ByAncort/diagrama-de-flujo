@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T15:18:24.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="gWshXApuAiOwu-Ma0eeZ" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:18:42.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="TZT8ZmeQxFmQml51ITaM" version="17.4.0" type="github">
   <diagram id="AYQV9O10JoMfKQ76o80u" name="Page-1">
     <mxGraphModel dx="1296" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -656,7 +656,7 @@
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-110" value="Saco la carne" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1036" y="610" width="130" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-111" value="Recogo los items" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-111" value="Recojo los items" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1036" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCvOJR1eQpiQs_-hQ0Ik-113" value="Veo cascadas de &lt;br&gt;lava y agua,veo hierro y redstone&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
