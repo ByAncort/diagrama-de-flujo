@@ -1,11 +1,13 @@
 @echo off
-color 5
+
+color 7C
+
 cls
 set monedero=1000
  ECHO.
  ECHO //////////////Hola  bienvenidos a nuestro programa//////////////
  ECHO.
-set/p nombre=Ingrese su nombre: 
+set/p nombre=Ingrese su usuario: 
 echo.
 echo hola %nombre%
 
@@ -22,6 +24,7 @@ echo 1 Anadir saldo
 echo 2 Consultar saldo
 echo 3 Retirar saldo
 echo 4 Menu de compra
+echo.
 echo 5 salir 
 set/p opc= 
 
@@ -33,7 +36,7 @@ if %opc% EQU 4 goto :comprar
 if %opc% EQU 5 goto :salir
 
 :anadir_saldo
-clsa
+cls
  ECHO.
  ECHO //////////////Saldo a anadir//////////////
  ECHO.
@@ -87,7 +90,8 @@ echo 7 Ubertooth One $102
 echo 8 Proxmark3-kit $211
 echo 9 Lock picks  $12
 echo 10 Teclado keylogger $121
-
+echo. 
+echo (exit/e) para salir
 set/p compra=
 cls
 
@@ -104,78 +108,116 @@ if %compra% EQU 7 goto :7
 if %compra% EQU 8 goto :8
 if %compra% EQU 9 goto :9
 if %compra% EQU 10 goto :10
+if %compra% EQU exit goto :atras
+if %compra% EQU e goto :atras
 
+:atras
+goto :menu
 
 :1
 set raspberry=279
 set/a op=%monedero%-%raspberry%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
+echo.
+
 pause>nul
-REM goto :comprar
+goto :comprar
+
+
+
 :2
 set wifi=121
 set/a op=%monedero%-%wifi%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar
 :3
 set placa=147
 set/a op=%monedero%-%placa%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar
 :4
 set ducky=109
 set/a op=%monedero%-%ducky%
-set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar
 :5
 set lan=55
 set/a op=%monedero%-%lan%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar
 :6
 set hackrf=303
 set/a op=%monedero%-%hackrf%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar
 :7
 set ubertooth=102
 set/a op=%monedero%-%ubertooth%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :compra
+goto :comprar
 :8
 set proxmark3=211
 set/a op=%monedero%-%proxmark3%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar 
 :9
 set lock=12
 set/a op=%monedero%-%lock%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+ goto :comprar
 :10
 set keylogger=121
 set/a op=%monedero%-%keylogger%
 set monedero=%op%
-echo su saldo es de %monedero%
+if %monedero% GEQ 0 (echo "Su compra ha sido exitosa"
+echo su saldo es de %monedero%) else (echo "Compra fallida" 
+echo su cuenta esta en saldo negativo debe pagar en un plazo de 5 dias sino se le apricara una multa)
+
 pause>nul
-REM goto :comprar
+goto :comprar
 
 
 
