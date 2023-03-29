@@ -1,3 +1,4 @@
+
 -- create
 CREATE TABLE Product(
 id int,
@@ -25,8 +26,9 @@ SELECT * FROM Product;
 -- SELECT * FROM Product WHERE hdd=64;
 SELECT COUNT(nombre) FROM Product;
 SELECT * FROM Product WHERE direccion="5 de abril";
-SELECT * FROM Product WHERE numeroC < 100;
-SELECT * FROM Product WHERE numeroC>=0;
+SELECT max(numeroC) FROM Product ;
+SELECT min(numeroC) FROM Product ;
 SELECT nombre,direccion,eqanterior FROM Product ;
 SELECT * FROM Product WHERE nombre LIKE "%y%";
+
 
