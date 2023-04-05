@@ -1,6 +1,6 @@
 //delete eliminar registro de una tabla de base de datos 
 //ejemplo: DELETE FROM nombre_tabla WHERE condicion;
-//altere se utiliza para modificar la estructura de una tabla de base de datos
+//alter se utiliza para modificar la estructura de una tabla de base de datos
 //ejemplo: ALTER TABLE nombre_tabla accion;
 
 -- Crear la tabla "productos"
